@@ -13,7 +13,7 @@
     "dialog"
   ],
   "license": "MIT",
-  "homepage": "http://github.com/YOURUSER/x-dialog.html",
+  "homepage": "https://github.com/WebComponentsBook/chapter-15_karma",
   "ignore": [
     "**/.*",
     "node_modules",
